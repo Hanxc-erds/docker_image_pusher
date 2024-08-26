@@ -1,1 +1,1 @@
-postgres:12-alpine
+dazdata/redash:v10-21.11.19
