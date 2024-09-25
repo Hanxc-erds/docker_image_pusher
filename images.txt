@@ -1,1 +1,1 @@
-dazdata/redash-nginx:latest
+rainbond/nfs-client-provisioner
