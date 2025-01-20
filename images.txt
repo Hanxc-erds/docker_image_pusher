@@ -1,1 +1,1 @@
-gameserver：l4d2
+gameservermanagers/gameserver:l4d2
