@@ -1,1 +1,1 @@
-bitnami/consul:latest
+hyperf/hyperf:7.4-alpine-v3.11-swoole
