@@ -1,1 +1,1 @@
-redis:6.2.6
+sameersbn/gitlab:17.8.2
