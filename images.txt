@@ -1,1 +1,1 @@
-hyperf/hyperf:7.4-alpine-v3.11-swoole
+sameersbn/postgresql:14-20230628
