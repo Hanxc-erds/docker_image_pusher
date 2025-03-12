@@ -1,1 +1,1 @@
-oras:latest
+sameersbn/gitlab:17.9.0
