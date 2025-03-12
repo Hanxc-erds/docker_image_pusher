@@ -1,1 +1,1 @@
-sameersbn/gitlab:17.9.0
+gitlab/gitlab-runner:v16.5.4
