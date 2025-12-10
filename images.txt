@@ -1,1 +1,1 @@
-kibana:8.19.8
+fluent/fluent-bit:4.1.2-amd64
