@@ -1,1 +1,1 @@
-bitnami/elasticsearch:8.19.8
+registry-1.docker.io/bitnami/elasticsearch:8.19.8
