@@ -1,1 +1,1 @@
-elastic/filebeat:8.18.0
+bitnami/elasticsearch:8.19.8
