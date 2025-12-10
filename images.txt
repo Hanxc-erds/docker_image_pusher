@@ -1,1 +1,1 @@
-fluent/fluent-bit:4.1.2-amd64
+fluent/fluent-bit:3.1.9
