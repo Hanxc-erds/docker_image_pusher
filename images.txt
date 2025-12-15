@@ -1,1 +1,1 @@
-fluent/fluent-bit:3.1.9
+grafana/loki:3.6.3
