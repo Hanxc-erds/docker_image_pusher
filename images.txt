@@ -1,1 +1,1 @@
-grafana/loki:3.6.3
+grafana/grafana:12.1.4
