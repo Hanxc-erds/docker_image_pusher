@@ -1,1 +1,1 @@
-openspug/spug-service:latest
+postgres:15-alpine
