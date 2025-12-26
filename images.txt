@@ -1,2 +1,2 @@
-# --platform=linux/arm64 
-grafana/loki:3.6.3-arm64
+--platform=linux/arm64 grafana/grafana:12.2.3
+# grafana/loki:3.6.3-arm64
