@@ -1,1 +1,2 @@
-nginx:latest
+# --platform=linux/arm64 
+grafana/loki:3.6.3-arm64
