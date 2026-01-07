@@ -1,3 +1,4 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-gitlab/gitlab-runner:alpine-v18.6.2
+gitlab/gitlab-runner:alpine-v16.5.0
+
 
