@@ -1,3 +1,2 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-sameersbn/gitlab:17.0.0
-
+sameersbn/gitlab:17.11.7
