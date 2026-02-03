@@ -1,2 +1,2 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-grafana/grafana:latest
+grafana/mimir:latest
