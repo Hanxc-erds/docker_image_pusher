@@ -1,2 +1,2 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-jenkins/jenkins:2.553
+xiaozhu674/gameservermanager:latest
