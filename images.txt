@@ -1,3 +1,2 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-gameservermanagers/gameserver:l4d2
-
+langgenius/dify-plugin-daemon:0.5.3-local
