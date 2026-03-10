@@ -1,2 +1,3 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-langgenius/dify-web:1.12.0
+gameservermanagers/gameserver:l4d2
+
