@@ -1,2 +1,2 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-langgenius/dify-api:1.12.0
+langgenius/dify-web:1.12.0
