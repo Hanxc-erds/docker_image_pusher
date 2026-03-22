@@ -1,3 +1,3 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-ghcr.io/openclaw/openclaw:latest
+1panel/openclaw:2026.3.13
 
