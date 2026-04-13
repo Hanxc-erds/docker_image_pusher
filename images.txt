@@ -1,3 +1,3 @@
 #--platform=linux/arm64 prom/prometheus:v3.8.1
-alpine/openclaw:2026.4.2
+alpine/openclaw:2026.4.11
 
