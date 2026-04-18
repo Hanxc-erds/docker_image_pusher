@@ -1,2 +1,2 @@
 #--platform=linux/arm64 minio/minio:latest
-alpine/openclaw:2026.4.15
+linuxserver/wireguard:latest
