@@ -1,2 +1,2 @@
 #--platform=linux/arm64 minio/minio:latest
-alpine/openclaw:latest
+ghcr.io/openclaw/openclaw:2026.4.26
